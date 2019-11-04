@@ -1,3 +1,6 @@
+Data_Science_Module_wqu
+The curriculum of the data science module by WorldQuant University.
+
 Unit - 1, Scientific Computing in Python
 Video Links:
 
@@ -38,3 +41,4 @@ Office Hour 8 https://www.youtube.com/watch?v=9pzfOEoX1vE
 3.2.5 Compression & GZip Files https://youtu.be/Z3MQ8_zpczI
 3.2.6 Serialization & Pickle Files https://youtu.be/uPwk_TbHGdY
 3.3.1 PW Miniproject Intro https://youtu.be/sCB8g4D-0DA
+
