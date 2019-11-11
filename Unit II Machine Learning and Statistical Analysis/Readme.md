@@ -7,7 +7,7 @@ Video links below
 	Introduction to Machine Learning	https://youtu.be/9J6FNvil6Gw
 	1.2.1 Intro to Scikit-learn	https://youtu.be/ecryKgFv5MA
 	1.2.2 Predictors	https://youtu.be/AHALKrsFdVw
-  1.2.3 Transformers and Pipelines	https://youtu.be/zVU4131QPsw
+        1.2.3 Transformers and Pipelines	https://youtu.be/zVU4131QPsw
 	1.2.4 Feature Unions	https://youtu.be/_gOyCmdumps
 	1.2.5 Custom Transformers	https://youtu.be/I0YbI9x51kU
 	1.2.6 Custom Predictors	https://youtu.be/bxf2JHcH4UI
@@ -22,7 +22,7 @@ Video links below
 	2.2.4 Feature Importance	https://youtu.be/x5XB1ynjCGI
 	2.3.1 Classification Metrics	https://youtu.be/SMmbzWn8yGI
 	2.3.2 Probabilistic Models and Metrics	https://youtu.be/4MgWh8oD-hQ
-  2.3.3 Logistic Regression	https://youtu.be/oqj-0_4WKq4
+        2.3.3 Logistic Regression	https://youtu.be/oqj-0_4WKq4
 	2.3.4 Multiclassification	https://youtu.be/gOVP8c1Cmmg
 	2.4.1 Model Selection	https://youtu.be/lEBStVJXXpM
 	2.4.2 Intro to Decision Trees	https://youtu.be/D6tNPIXCI1o
@@ -53,7 +53,7 @@ Video links below
 	3.4.5 Hashing Vectorizer	https://youtu.be/_wPHgQhiMVY
 	3.4.6 TF-IDF	https://youtu.be/kv9cE-uOnis
 	3.4.7 Improving Signal	https://youtu.be/UR4JcVOBiAI
-  3.4.8 N-grams and Similarity	https://youtu.be/tuwCNPEFRDs
+        3.4.8 N-grams and Similarity	https://youtu.be/tuwCNPEFRDs
 	3.4.9 Word Usage Classifier	https://youtu.be/FNU4dNeKrHo
 	3.4.10 Exercise I	https://youtu.be/kAZuP3efPbg
 	3.4.11 Exercise II	https://youtu.be/MkpFJkSrC2o
@@ -85,7 +85,7 @@ Video links below
 	5.1.13 SVM Online Learning	https://youtu.be/bgzt8UL8x4Y
 	5.1.14 SVM Online Learning Pipeline	https://youtu.be/E1RoFHjJRDc
 	5.2.1 Intro to Clustering	https://youtu.be/HktZtB7Te0c
-  5.2.2 Metrics for Clustering	https://youtu.be/kWsylUt8LxA
+        5.2.2 Metrics for Clustering	https://youtu.be/kWsylUt8LxA
 	5.2.3 KMeans Clustering	https://youtu.be/_OKUAiC9FLY
 	5.2.4 Elbow Plots	https://youtu.be/J_jH7cXGUSQ
 	5.2.5 Gaussian Mixture Models	https://youtu.be/WwDiKfHW52U
